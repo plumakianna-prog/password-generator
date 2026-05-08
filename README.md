@@ -27,7 +27,7 @@ Random Password Generator — это графическое приложение
 git clone https://github.com/plumakianna-prog/password-generator.git
 cd password-generator
 python password_generator.py
-
+```
 ## Как пользоваться
 
 Выберите длину пароля с помощью ползунка.
